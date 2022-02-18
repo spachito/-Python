@@ -1,0 +1,8 @@
+{"Town": "Athens", "Color": "Blue", "Ektasi":158, "Pososto":35}
+{"Town": "Larisa", "Color": "Green", "Ektasi":182, "Pososto":42}
+{"Town": "Athens", "Color": "White", "Ektasi":412, "Pososto":47}
+{"Town": "Trikala", "Color": "White", "Ektasi":158, "Pososto":57}
+{"Town": "Larisa", "Color": "Red", "Ektasi":122, "Pososto":85}
+{"Town": "Athens", "Color": "Red", "Ektasi":316, "Pososto":72}
+{"Town": "Larisa", "Color": "Red", "Ektasi":173, "Pososto":35}
+{"Town": "Patra", "Color": "White", "Ektasi":165, "Pososto":57}
